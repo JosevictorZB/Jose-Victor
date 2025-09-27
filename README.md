@@ -1,4 +1,4 @@
-# Jose-Victor
+# Jose Victor Zorzi Bernardes
 # 👋 Olá, mundo!  
 
 Eu sou o **José Victor** 👨‍💻  
